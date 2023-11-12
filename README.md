@@ -5,3 +5,5 @@ Learned so Far:
 11/11/2023 How to create basic code functionality 
 11/11/2023 How to build GO executables for Mac Os, Linux, and Windows
 11/11/2023 Basic Operation of Terminal + git push and pull commands
+11/12/2023 Sequential and conditional programming
+11/12/2023 Select w channels, Switch, and basic If structure

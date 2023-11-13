@@ -7,3 +7,5 @@ Learned so Far:
 11/11/2023 Basic Operation of Terminal + git push and pull commands
 11/12/2023 Sequential and conditional programming
 11/12/2023 Select w channels, Switch, and basic If structure
+11/12/2023 For Loops and range based loops 
+11/12/2023 Map Initalization and Slices plus concepts
